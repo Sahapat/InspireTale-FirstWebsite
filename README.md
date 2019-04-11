@@ -9,7 +9,7 @@ I got exercise from devslopes(The Udemy fullstack web development course). Then,
 ## HTML Tag
 For build this website i have learning a little bit of html tags. I will show the tags that i have learning and use in this project.
 
-<b>Table tag</b>
+<b>Table tag<></b>
 ```html
     <table border="0" cellpadding="10">
         <tr>
@@ -20,11 +20,11 @@ For build this website i have learning a little bit of html tags. I will show th
     </table>
 ```
 
-<b>Img tag</b>
+<b>Img tag<></b>
 ```html
     <img src="Images/InspireTaleLogo.png" alt="InspireTaleLogo" width="200" height="200">
 ```
-<b>a tag</b>
+<b>a tag<></b>
 ```html
     <td><a href="#">Home</a></td>
     <td><a href="#">About</a></td>
