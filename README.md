@@ -1,11 +1,11 @@
 # InspireTale-FirstWebsite
 I'm learning the HTML. This project is the website that create by pure html.
 
-##Requirement
+## Requirement
 I got exercise from devslopes(The Udemy fullstack web development course). Then,i decided to create my own website name's "InspireTale Studio"
 &emsp;<img src="https://github.com/Sahapat/InspireTale-FirstWebsite/blob/master/Images/ExerciseByDevslopes.PNG" alt="RequirementImage" width="600"/>
 
-##HTML Tag
+## HTML Tag
 For build this website i have learning a little bit of html tags. I will show the tags that i have learning and use in this project.
 
 <b>Table tag</b>
@@ -29,5 +29,6 @@ For build this website i have learning a little bit of html tags. I will show th
     <td><a href="#">About</a></td>
     <td><a href="#">Contact</a></td>
 ```
+<hr>
 
-##See my Website
+## See my website
